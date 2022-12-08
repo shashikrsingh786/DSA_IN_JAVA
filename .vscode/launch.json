@@ -1,0 +1,252 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Buy_and_sell_stock",
+            "request": "launch",
+            "mainClass": "Buy_and_sell_stock",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedHashMap",
+            "request": "launch",
+            "mainClass": "LinkedHashMap",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Implementation",
+            "request": "launch",
+            "mainClass": "Implementation",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Create_and_decrease_array",
+            "request": "launch",
+            "mainClass": "Create_and_decrease_array",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Merge_sort",
+            "request": "launch",
+            "mainClass": "Merge_sort",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Iterator_in_hashmap",
+            "request": "launch",
+            "mainClass": "Iterator_in_hashmap",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Queue_using_circular_arr",
+            "request": "launch",
+            "mainClass": "Queue_using_circular_arr",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Delete_in_Heap",
+            "request": "launch",
+            "mainClass": "Delete_in_Heap",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Insert_in_heap",
+            "request": "launch",
+            "mainClass": "Insert_in_heap",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Find_subset",
+            "request": "launch",
+            "mainClass": "Find_subset",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Comparing_on_basis_of_class_object",
+            "request": "launch",
+            "mainClass": "Comparing_on_basis_of_class_object",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Decimal_binary",
+            "request": "launch",
+            "mainClass": "Decimal_binary",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch IsEven",
+            "request": "launch",
+            "mainClass": "IsEven",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Avg_of3_number",
+            "request": "launch",
+            "mainClass": "Avg_of3_number",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Diagonal_sum",
+            "request": "launch",
+            "mainClass": "Diagonal_sum",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Largest_element",
+            "request": "launch",
+            "mainClass": "Largest_element",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AVL_trees",
+            "request": "launch",
+            "mainClass": "AVL_trees",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Build_a_tree",
+            "request": "launch",
+            "mainClass": "Build_a_tree",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Closest_element_in_BST",
+            "request": "launch",
+            "mainClass": "Closest_element_in_BST",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Convert_BST_to_balanced_BST",
+            "request": "launch",
+            "mainClass": "Convert_BST_to_balanced_BST",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Delete_a_node",
+            "request": "launch",
+            "mainClass": "Delete_a_node",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Isvalid_BST",
+            "request": "launch",
+            "mainClass": "Isvalid_BST",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kth_smallest_element_in_BST",
+            "request": "launch",
+            "mainClass": "Kth_smallest_element_in_BST",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Maximum_sum_of_BST_in_BT",
+            "request": "launch",
+            "mainClass": "Maximum_sum_of_BST_in_BT",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Merge_two_BST",
+            "request": "launch",
+            "mainClass": "Merge_two_BST",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mirror_a_BST",
+            "request": "launch",
+            "mainClass": "Mirror_a_BST",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Print_in_range",
+            "request": "launch",
+            "mainClass": "Print_in_range",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Range_sum_in_BST",
+            "request": "launch",
+            "mainClass": "Range_sum_in_BST",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Root_to_leaf",
+            "request": "launch",
+            "mainClass": "Root_to_leaf",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Search_a_bst",
+            "request": "launch",
+            "mainClass": "Search_a_bst",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Size_of_largest_BST",
+            "request": "launch",
+            "mainClass": "Size_of_largest_BST",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sorted_array_to_balanced_bst",
+            "request": "launch",
+            "mainClass": "Sorted_array_to_balanced_bst",
+            "projectName": "Java_Placement_Course_66eff91"
+        },
+        {
+            "type": "java",
+            "name": "Launch Two_sum_BST",
+            "request": "launch",
+            "mainClass": "Two_sum_BST",
+            "projectName": "Java_Placement_Course_66eff91"
+        }
+    ]
+}

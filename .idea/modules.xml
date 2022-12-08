@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array_List/Array_List.iml" filepath="$PROJECT_DIR$/Array_List/Array_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BackTracking/BackTracking.iml" filepath="$PROJECT_DIR$/BackTracking/BackTracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic_sorting/Basic_sorting.iml" filepath="$PROJECT_DIR$/Basic_sorting/Basic_sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary_Search_Tress/Binary_Search_Tress.iml" filepath="$PROJECT_DIR$/Binary_Search_Tress/Binary_Search_Tress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary_tree/Binary_tree.iml" filepath="$PROJECT_DIR$/Binary_tree/Binary_tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bit_manipulation/Bit_manipulation.iml" filepath="$PROJECT_DIR$/Bit_manipulation/Bit_manipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditional_statement/Conditional_statement.iml" filepath="$PROJECT_DIR$/Conditional_statement/Conditional_statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Divide_and_Conquer/Divide_and_Conquer.iml" filepath="$PROJECT_DIR$/Divide_and_Conquer/Divide_and_Conquer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graphs/Graphs.iml" filepath="$PROJECT_DIR$/Graphs/Graphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy_algorithm/Greedy_algorithm.iml" filepath="$PROJECT_DIR$/Greedy_algorithm/Greedy_algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashing/Hashing.iml" filepath="$PROJECT_DIR$/Hashing/Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heaps/Heaps.iml" filepath="$PROJECT_DIR$/Heaps/Heaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Placement_Course.iml" filepath="$PROJECT_DIR$/Java_Placement_Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked_list/Linked_list.iml" filepath="$PROJECT_DIR$/Linked_list/Linked_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked_list_2/Linked_list_2.iml" filepath="$PROJECT_DIR$/Linked_list_2/Linked_list_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/Loop.iml" filepath="$PROJECT_DIR$/Loop/Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queues/Queues.iml" filepath="$PROJECT_DIR$/Queues/Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks/Stacks.iml" filepath="$PROJECT_DIR$/Stacks/Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tries/Tries.iml" filepath="$PROJECT_DIR$/Tries/Tries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variable_and_datatype/Variable_and_datatype.iml" filepath="$PROJECT_DIR$/Variable_and_datatype/Variable_and_datatype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2_D_Arrays/_2_D_Arrays.iml" filepath="$PROJECT_DIR$/_2_D_Arrays/_2_D_Arrays.iml" />
+    </modules>
+  </component>
+</project>
