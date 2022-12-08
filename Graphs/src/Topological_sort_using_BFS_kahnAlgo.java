@@ -24,7 +24,7 @@ public class Topological_sort_using_BFS_kahnAlgo {
         }
         public static void calInDegree(ArrayList<Edge>[] graph,int[] inDegree) {
             for(int i = 0;i< graph.length;i++) {
-                for(int j = 0;j<graph[i].size();i++) {
+                for(int j = 0;j<graph[i].size();j++) {
                     Edge e = graph[i].get(j);
                     inDegree[e.dest]++;
                 }
