@@ -24,9 +24,9 @@ public class Prim_algorithm {
         graph[2].add(new Edge(2,3,50));
 
         // 3 -> vertex
-        graph[3].add(new Edge(3,1,30));
+        graph[3].add(new Edge(3,0,30));
+        graph[3].add(new Edge(3,1,40));
         graph[3].add(new Edge(3,2,50));
-        graph[3].add(new Edge(3,3,40));
 
         System.out.println(primAlgorithm(graph));
     }
