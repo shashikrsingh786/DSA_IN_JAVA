@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Bit_manipulation/Bit_manipulation.iml" filepath="$PROJECT_DIR$/Bit_manipulation/Bit_manipulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Conditional_statement/Conditional_statement.iml" filepath="$PROJECT_DIR$/Conditional_statement/Conditional_statement.iml" />
       <module fileurl="file://$PROJECT_DIR$/Divide_and_Conquer/Divide_and_Conquer.iml" filepath="$PROJECT_DIR$/Divide_and_Conquer/Divide_and_Conquer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic_Programming/Dynamic_Programming.iml" filepath="$PROJECT_DIR$/Dynamic_Programming/Dynamic_Programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
       <module fileurl="file://$PROJECT_DIR$/Graphs/Graphs.iml" filepath="$PROJECT_DIR$/Graphs/Graphs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Greedy_algorithm/Greedy_algorithm.iml" filepath="$PROJECT_DIR$/Greedy_algorithm/Greedy_algorithm.iml" />
@@ -22,6 +23,11 @@
       <module fileurl="file://$PROJECT_DIR$/Loop/Loop.iml" filepath="$PROJECT_DIR$/Loop/Loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic_Programming/Part_1/Part_1.iml" filepath="$PROJECT_DIR$/Dynamic_Programming/Part_1/Part_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic_Programming/Part_2/Part_2.iml" filepath="$PROJECT_DIR$/Dynamic_Programming/Part_2/Part_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic_Programming/Part_3/Part_3.iml" filepath="$PROJECT_DIR$/Dynamic_Programming/Part_3/Part_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic_Programming/Part_4/Part_4.iml" filepath="$PROJECT_DIR$/Dynamic_Programming/Part_4/Part_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic_Programming/Part_5/Part_5.iml" filepath="$PROJECT_DIR$/Dynamic_Programming/Part_5/Part_5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Queues/Queues.iml" filepath="$PROJECT_DIR$/Queues/Queues.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
