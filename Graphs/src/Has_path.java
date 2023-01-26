@@ -35,7 +35,7 @@ public class Has_path {
         graph[5].add(new Edge(5,6,1));
 
         // 6 -> vertex
-        graph[6].add(new Edge(5,6,1));
+        graph[6].add(new Edge(6,5,1));
 
         visited = new boolean[graph.length];
 

@@ -1,11 +1,10 @@
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 
 public class Breadth_First_Search {
     public static void main(String[] args) {
-        int v = 7;
+        int v = 9;
         ArrayList<Edge>[] graph = new ArrayList[v];
         for(int i=0;i<graph.length;i++ ) {
             graph[i] = new ArrayList<>();
@@ -40,6 +39,11 @@ public class Breadth_First_Search {
         // 6 -> vertex
         graph[6].add(new Edge(5,6,1));
 
+        graph[7].add(new Edge(7,8,1));
+        graph[8].add(new Edge(8,7,1));
+
+
+
         bfs(graph);    // breadth first search
     }
 
@@ -47,15 +51,15 @@ public class Breadth_First_Search {
         boolean[] visited = new boolean[graph.length];
         for(int i =0;i<graph.length;i++) {
             if(!visited[i]) {
-                bfsUtil(graph, visited);
+                bfsUtil(graph, visited,i);
             }
         }
     }
 
-    public static void bfsUtil(ArrayList<Edge>[] graph,boolean[] visited) {
+    public static void bfsUtil(ArrayList<Edge>[] graph,boolean[] visited, int el) {
         Queue<Integer> q = new LinkedList<>();
 
-            q.add(0);   // src = 0
+            q.add(el);   // src = 0
 
             while(!q.isEmpty()) {
                 int curr = q.remove();

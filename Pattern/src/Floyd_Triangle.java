@@ -1,6 +1,6 @@
 public class Floyd_Triangle {
     public static void main(String[] args) {
-        int n = 10;
+        int n = 3;
         Floyd(n);
     }
     static void Floyd(int n) {

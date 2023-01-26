@@ -1,6 +1,6 @@
 public class Alphabet {
     public static void main(String[] args) {
-        int n = 10;
+        int n = 4;
         alphabet(n);
     }
 
@@ -12,7 +12,7 @@ public class Alphabet {
             for(int k = 0;k<i+1;k++) {
                 System.out.print((char)(k+65));
             }
-            for(int k = i-1;k>=0;k--) {
+            for(int k = 0;k<i;k++) {
                 System.out.print((char)(k+65));
             }
             System.out.println();
@@ -21,10 +21,11 @@ public class Alphabet {
             for(int j = 0;j<(n-1-i);j++) {
                 System.out.print(" ");
             }
+
             for(int k = 0;k<i+1;k++) {
                 System.out.print((char)(k+65));
             }
-            for(int k = i-1;k>=0;k--) {
+            for(int k=0;k<i;k++) {
                 System.out.print((char)(k+65));
             }
             System.out.println();

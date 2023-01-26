@@ -1,6 +1,6 @@
 public class Palindrome_pattern_wthnumber {
     public static void main(String[] args) {
-        int n = 9;
+        int n = 4;
         palindrome(n);
     }
     static void palindrome(int n) {

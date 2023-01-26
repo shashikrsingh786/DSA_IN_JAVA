@@ -1,6 +1,6 @@
 public class Diamond_pattern {
     public static void main(String[] args) {
-        int n = 10;
+        int n = 4;
         upperhalf(n);
         lowerhalf(n);
     }

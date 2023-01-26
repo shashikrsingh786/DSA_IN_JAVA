@@ -1,6 +1,6 @@
 public class Hollow_rhombus {
     public static void main(String[] args) {
-        int n = 10;
+        int n = 4;
         hollowrhombus(n);
     }
     static void hollowrhombus(int n) {

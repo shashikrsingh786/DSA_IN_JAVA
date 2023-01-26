@@ -1,6 +1,6 @@
 public class Solid_Rhombus {
     public static void main(String[] args) {
-        int n = 10;
+        int n = 4;
         rhombus(n);
     }
     static void rhombus(int n ) {

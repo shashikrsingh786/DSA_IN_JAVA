@@ -1,6 +1,6 @@
 public class Butterfly {
     public static void main(String[] args) {
-        int n = 15;
+        int n = 3;
         butterfly_FirstHalf(n);
         butterfly_SecondHalf(n);
     }
