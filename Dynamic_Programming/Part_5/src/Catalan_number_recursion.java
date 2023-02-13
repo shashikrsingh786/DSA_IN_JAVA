@@ -1,6 +1,6 @@
 public class Catalan_number_recursion {
     public static void main(String[] args) {
-        int c = 30;
+        int c = 10;
         System.out.println(findCatalanNumber(c));
     }
     public static int findCatalanNumber(int c) {

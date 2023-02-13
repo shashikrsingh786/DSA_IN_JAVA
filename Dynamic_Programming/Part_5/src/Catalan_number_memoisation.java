@@ -1,6 +1,6 @@
 public class Catalan_number_memoisation {
     public static void main(String[] args) {
-        int c = 3;
+        int c = 10;
 
         int[] catNo = new int[c+1];
         System.out.println(findCatalanNumber(c,catNo));
